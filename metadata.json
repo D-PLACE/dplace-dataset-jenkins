@@ -1,0 +1,8 @@
+{
+    "id": "dplace-dataset-jenkins",
+    "title": "D-PLACE dataset derived from Jenkins et al. 2013 'Global patterns of terrestrial vertebrate diversity and conservation'",
+    "description": "Animal richness data",
+    "license": "CC-BY-3.0",
+    "url": null,
+    "citation": "Jenkins CN, Pimm SL, Joppa LN. Global patterns of terrestrial vertebrate diversity and conservation. Proc Natl Acad Sci. 2013;110: E2602\u2013E2610."
+}

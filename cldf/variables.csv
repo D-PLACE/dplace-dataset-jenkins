@@ -1,0 +1,4 @@
+ID,Name,Description,ColumnSpec,category,type,unit,source_comment,changes,comment
+AmphibianRichness,Number of coexisting amphibian species,Number of coexisting amphibian species.,"{""datatype"": ""decimal""}",Ecology,Continuous,,Jenkins et al. 2013,,
+BirdRichness,Number of coexisting bird species,Number of coexisting bird species.,"{""datatype"": ""decimal""}",Ecology,Continuous,,Jenkins et al. 2013,,
+MammalRichness,Number of coexisting mammal species,Number of coexisting mammal species.,"{""datatype"": ""decimal""}",Ecology,Continuous,,Jenkins et al. 2013,,
